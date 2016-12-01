@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dict>
+    <key>scoretip</key>
+    <string>选中%d个得%d分</string>
+    <key>bouns</key>
+    <string>奖励分数 %d</string>
+    <key>awardtip</key>
+    <string>剩余 %d 个星星</string>
+    <key>label1</key>
+    <string>第 %d 关</string>
+    <key>label2</key>
+    <string>目标分数 %d</string>
+    <key>gscore</key>
+    <string>目标分数:</string>
+    <key>stage</key>
+    <string>当前关:</string>
+    <key>hscore</key>
+    <string>最高分:</string>
+    <key>replay</key>
+    <string>重玩本关？花费10金币。</string>
+    <key>newtip</key>
+    <string>？</string>
+    <key>lasthigh</key>
+    <string>历史最高:%d</string>
+    <key>worldrank</key>
+    <string>世界排行:%d</string>
+    <key>logintip</key>
+    <string>＃登录GameCenter,可以获取自己排行的最新信息＃</string>
+    <key>sharetip</key>
+    <string>＃每天首次分享可以获得10金币奖励，记得分享哦～＃</string>
+    <key>title</key>
+    <string>xiaomiexingxing</string>
+</dict>

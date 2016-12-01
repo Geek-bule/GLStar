@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dict>
+    <key>scoretip</key>
+    <string>%d STARS %d POINTS</string>
+    <key>bouns</key>
+    <string>BONUS %d</string>
+    <key>awardtip</key>
+    <string>%d STARS REMAINING</string>
+    <key>label1</key>
+    <string>Stage %d</string>
+    <key>label2</key>
+    <string>Target Score Is %d</string>
+    <key>gscore</key>
+    <string>TARGET:</string>
+    <key>stage</key>
+    <string>STAGE:</string>
+    <key>hscore</key>
+    <string>HIGH SCORE:</string>
+    <key>replay</key>
+    <string>Retry stage? Just 10 COINS？</string>
+    <key>newtip</key>
+    <string>？</string>
+    <key>lasthigh</key>
+    <string>BEST: %d</string>
+    <key>worldrank</key>
+    <string>RANK: %d</string>
+    <key>logintip</key>
+    <string>＃LOGIN GameCenter,GET NEW INFORMATION＃</string>
+    <key>sharetip</key>
+    <string>＃每天首次分享可以获得10金币奖励，要分享哦～＃</string>
+    <key>title</key>
+    <string>xiaomiexingxing</string>
+</dict>

@@ -1,0 +1,24 @@
+/* 
+  tools.strings
+  SpriteSheet
+
+  Created by JustinYang on 15/8/15.
+
+*/
+
+
+"rate tip"      = "Please rate with 5 stars! You will get 100 coins.( then nolonger pop up)";
+"i know"        = "Rate Now!";
+"award tip"     = "Reward for rating.";
+"award msg"     = "You get 100 coins.";
+"award ok"      = "OK.";
+
+
+"version tip"   = "Update now!";
+
+
+"share url"     = "https://itunes.apple.com/cn/app/id839342373?l=zh&ls=1&mt=8";
+"share image"   = "shareImage/shareImage.png"; //需要资源在resource中才有效
+"small image"   = "res/smallImage.png"; //需要资源在resource中才有效
+"ok"            = "OK.";
+
